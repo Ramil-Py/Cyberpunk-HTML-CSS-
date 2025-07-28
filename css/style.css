@@ -473,7 +473,7 @@ span {
     }
 
     .hp_block {
-        height: 1470px;
+        height: 1270px;
     }
 
     .input {
@@ -485,7 +485,7 @@ span {
         justify-items: center;
         width: 330px;
         grid-template-columns: 1fr;
-        grid-template-rows: 250px 1060px 70px;
+        grid-template-rows: 250px 860px 70px;
     }
 
     .hp_images {
@@ -540,7 +540,7 @@ span {
     }
     span {
         font-size: 20px;
-        line-height: 50px;
+        line-height: 40px;
         margin: 3%;
         display: block;
     }
@@ -625,7 +625,7 @@ span {
     }
 
     .buy_block {
-        height: 750px;
+        height: 700px;
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: 200px 1fr;
@@ -646,7 +646,7 @@ span {
     }
 
     .buy_block span {
-        font-size: 16px;
+        font-size: 20px;
     }
 
     .span {
