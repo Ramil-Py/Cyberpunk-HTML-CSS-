@@ -98,7 +98,7 @@ span {
 
 .container {
     text-align: left;
-    max-width: 1200px;
+    max-width: 1240px;
     margin: 5% auto 0;
     padding: 0 5%;
 }
@@ -473,7 +473,7 @@ span {
     }
 
     .hp_block {
-        height: 1270px;
+        height: 1230px;
     }
 
     .input {
@@ -483,9 +483,9 @@ span {
     .hp_container {
         gap: 12px;
         justify-items: center;
-        width: 330px;
+        width: 370px;
         grid-template-columns: 1fr;
-        grid-template-rows: 250px 860px 70px;
+        grid-template-rows: 250px 810px 60px;
     }
 
     .hp_images {
@@ -500,7 +500,7 @@ span {
     }
     
     #hp_text {
-        max-width: 300px;
+        max-width: 370px;
         grid-column: 1;
         grid-row: 2;
     }
