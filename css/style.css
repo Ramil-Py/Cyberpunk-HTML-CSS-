@@ -189,7 +189,8 @@ span {
 }
 
 .file_upload {
-    margin-top: 10%;
+    margin-top: 8%;
+    margin-bottom: 2%;
     display: block;
     text-align: center;
     padding: 40px;
@@ -221,18 +222,19 @@ span {
     width: 100%;
     margin: 0 auto;
     background-color: yellow;
-    height: 680px;
+    height: 620px;
     grid-template-columns: 800px 1fr;
 }
 
 .hp_container {
+    height: 570px;
     display: grid; 
     grid-template-columns: 1fr 1fr; 
     padding-top: 3%; 
     width: 1300px; 
     margin: 0 auto; 
-    gap: 20px; 
-    grid-template-rows: 1fr 100px;
+    gap: 17px; 
+    grid-template-rows: 1fr 90px;
 }
 
 .hp_images {
@@ -483,7 +485,7 @@ span {
     .hp_container {
         gap: 12px;
         justify-items: center;
-        width: 370px;
+        width: 355px;
         grid-template-columns: 1fr;
         grid-template-rows: 250px 810px 60px;
     }
@@ -500,7 +502,7 @@ span {
     }
     
     #hp_text {
-        max-width: 370px;
+        max-width: 355px;
         grid-column: 1;
         grid-row: 2;
     }
@@ -682,6 +684,9 @@ span {
         scroll-behavior: smooth;
         overflow: auto;
     }
-
+     
+    .br {
+        display: none;
+    }
 }
 
